@@ -48,7 +48,7 @@ Through the insights gained from the Power BI dashboard, Atliq Hardwares was abl
 <img width="508" alt="image" src="https://github.com/vmk9/End-To-End-Power-BI-Sales-Insights-Dashboard/assets/106167638/f7ebcb22-510a-4544-aecb-ab823b818c7f">
 
 
-#Technologies Used:
+# Technologies Used:
 - MySQL
 - Power BI Desktop: Utilized for data connection, transformation, DAX implementation, and interactive dashboard creation.
 - Excel: Sourced raw data for analysis, underwent data cleaning, and preliminary preprocessing.
@@ -58,7 +58,7 @@ Through the insights gained from the Power BI dashboard, Atliq Hardwares was abl
 If you found an issue or would like to submit an improvement to this project, please submit an issue using this form. https://docs.google.com/forms/d/e/1FAIpQLSdOL5AdmJ4PkQeO2gdhfMg0tNgZJ9P0il2N_jnl7FQvpAi1vQ/viewform?usp=sf_link
 
 # Like this project?
-If you like this and feel I have really put in some efforts, Consider checking my Likedin Profile in this link and refer me for data positions! :) https://www.linkedin.com/in/vamsikanderi/
+If you like this and feel I have really put in some efforts, Consider checking my Linkedin Profile in this link and refer me for data positions! :) https://www.linkedin.com/in/vamsikanderi/
 
 
 
